@@ -1,0 +1,5 @@
+nltk
+fuzzywuzzy
+distance
+bs4
+sklearn
